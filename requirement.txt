@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+ploty
+seaborn
+cufflinks
+ plotly.express
+ahlive
+statsmodels
+pmdarima
+ADFTest
+import itertools
+sqrt
